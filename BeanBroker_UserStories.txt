@@ -1,0 +1,42 @@
+Identified roles:
+
+Coffee seller, coffee buyer, system administrator, developer.
+
+Staging
+
+Deploying
+
+
+
+
+As a Coffee seller, I want to:
+
+*	be able to post potential offers, so I can monitor the interest for a particular bean.
+*	be able to contact indiviual buyers
+*	be able to contact all buyers collectively
+*	be able to cancel an offer
+*	be able to create a new offer
+*	be able to promote an offer from potential to actual
+*	be able to lock the deal, so that users no longer can cancel or modify.
+*	be able to mark a end date for ordering - so that users know when to bid.
+*	be able to modify end date if I want to prolong or close the offer (e.g. due to out of stock)
+
+
+As a Coffee buyer, I want to:
+
+*	be able to monitor potential offers, and mark interest/amount for particular beans.
+*	be able to post a order
+*	be able to follow the status of my orders, including when payment is due, etc.
+*	be able to contact the seller, ask questions. Either publicly (interest for all) or private (sensitive info, not of interest for others)
+*	be able to modify my order
+*	be able to cancel my order if commitment date 
+*	be able to be notified if something happens to my order.
+
+
+Classes:
+
+Bean
+Offer
+Bid
+User
+
